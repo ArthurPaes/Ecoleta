@@ -2,4 +2,4 @@
 Projeto resultado da Next Level Week #1
 
 
-<a href="//imgur.com/bHBuYQ9"></a>
+<img src="https://imgur.com/a/vXgfZz6" alt="Ecoleta">
