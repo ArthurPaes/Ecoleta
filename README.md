@@ -6,6 +6,9 @@ Projeto resultado da Next Level Week #1
 # Project
  Projeto desenvolvido durante a semana do meio-ambiente com o intuito de facilitar a procura de locais de coleta de resíduos.
 
-# Tecnologias
-
-https://nodejs.org/
+# Tecnologias utilizadas
+- Node.js
+- Javascript
+- Html5
+- CSS
+ 
